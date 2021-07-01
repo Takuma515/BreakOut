@@ -1283,3 +1283,27 @@ Received Import Request.
 Start importing Assets/MusMus-BGM-125.mp3 using Guid(7cb2430670c304ff38297a2b7a1be75e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63afa83b12a91eb6829e55b813f0ae7f') in 1.495756 seconds
   Import took 1.498051 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.957 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.4 MB.
+System memory in use after: 142.5 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1715.
+Total: 2.009328 ms (FindLiveObjects: 0.207608 ms CreateObjectMapping: 0.051249 ms MarkObjects: 1.686877 ms  DeleteObjects: 0.062102 ms)
+

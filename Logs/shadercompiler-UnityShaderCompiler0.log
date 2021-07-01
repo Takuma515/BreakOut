@@ -1,3 +1,4 @@
 Base path: '/Users/miyamototakuma/Unity/2020.3.0f1/Unity.app/Contents', plugins path '/Users/miyamototakuma/Unity/2020.3.0f1/PlaybackEngines'
 Cmd: initializeCompiler
 
+Cmd: shutdown
